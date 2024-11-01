@@ -35,7 +35,7 @@
 
 ### Grafico de Contribuição de Repositórios
 <div align="center">
-    <img src="https://ghchart.rshah.org//020F0/robsonbsouzaa" alt="RobsonBSouza Contribuition" />
+    <img src="https://ghchart.rshah.org//A020F0/robsonbsouzaa" alt="RobsonBSouza Contribuition" />
 </div>
 
 ### Grafico de Contribuição

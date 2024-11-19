@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=robsonbsouzaa&theme=dark&layout=compact" alt="" />
+    <img src="https://streak-stats.demolab.com/?user=robsonbsouzaa&theme=dark" alt="" />
 </div>
 
 <div align="center">

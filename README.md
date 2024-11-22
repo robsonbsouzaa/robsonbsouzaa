@@ -1,10 +1,6 @@
 # GitHub Profile Stats
 
 <div align="center">
-    <img src= "https://streak-stats.demolab.com/?user=robsonbsouzaa&theme=dark" alt="" />
-</div>
-
-<div align="center">
     <img src="https://streak-stats.demolab.com/?user=robsonbsouzaa&theme=dark" alt="" />
 </div>
 

@@ -6,7 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robsonbsouzaa/robsonbsouzaa/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+_generated with [robsonbsouzaa/snk](https://github.com/robsonbsouzaa/snk)_
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=robsonbsouzaa&show_icons=true&theme=gotham" alt="" />

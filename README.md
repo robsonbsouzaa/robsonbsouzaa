@@ -2,13 +2,13 @@
 
 
 # GitHub Profile Stats
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=robsonbsouzaa&show_icons=true&theme=gotham" alt="" />
 </div>
 
 <div align="center">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/robsonbsouzaa?cardType=level&theme=gotham&preferLogin=false" alt="" />
-</div>
+</div> -->
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonbsouzaa&layout=compact&theme=gotham&langs_count=20" alt="" />

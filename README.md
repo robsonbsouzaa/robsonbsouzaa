@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=robsonbsouzaa&show_icons=true&theme=gotham" alt="" />
 </div>
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=robsonbsouzaa&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=robsonbsouzaa&theme=dark&hide_border=true&locale=pt_BR" />
     </div>
 <div align="center">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/robsonbsouzaa?cardType=level&theme=gotham&preferLogin=false" alt="" />

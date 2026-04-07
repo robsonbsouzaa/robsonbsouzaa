@@ -5,6 +5,31 @@
 
 ![github-user-contribution](https://github.com/user-attachments/assets/6411a21a-8677-40e9-b9e8-4994c7592538)
 
+<p align="center">
+  <img src="./assets/robson-os.gif" width="780" alt="Robson OS">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=33FF66&center=true&vCenter=true&width=900&lines=Professor+de+Sistemas;Desenvolvedor+Web;React+%7C+Firebase+%7C+Arduino;Criando+projetos+e+experiencias+interativas" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Arduino-0A0F14?style=for-the-badge&logo=arduino&logoColor=00D1B2" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=robsonbsouzaa&show_icons=true&theme=transparent&title_color=33FF66&icon_color=33FF66&text_color=C7F0D8&border_color=2A3B2F" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonbsouzaa&layout=compact&theme=transparent&title_color=33FF66&text_color=C7F0D8&border_color=2A3B2F" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsonbsouzaa&repo=agar-senai&theme=transparent&title_color=33FF66&text_color=C7F0D8&border_color=2A3B2F" />
+</p>
+
 
 # GitHub Profile Stats
 <div align="center">

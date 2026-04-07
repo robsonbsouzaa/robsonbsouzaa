@@ -3,7 +3,7 @@
     <img src="https://github.com/user-attachments/assets/9b43148a-f82c-4b5f-8e74-dcb9dbd868c3" alt="" />
 </div>
 <div align="center">
-![github-user-contribution](https://github.com/user-attachments/assets/6411a21a-8677-40e9-b9e8-4994c7592538)
+<img src="https://github.com/user-attachments/assets/6411a21a-8677-40e9-b9e8-4994c7592538" alt="" />
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=000000&center=true&vCenter=true&width=900&lines=Professor+de+Desenvolvimento+de+Sistemas;Desenvolvedor+Web;Criando+projetos+e+experiencias" alt="Typing SVG" />

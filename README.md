@@ -2,9 +2,9 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/9b43148a-f82c-4b5f-8e74-dcb9dbd868c3" alt="" />
 </div>
-
+<div align="center">
 ![github-user-contribution](https://github.com/user-attachments/assets/6411a21a-8677-40e9-b9e8-4994c7592538)
-
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=000000&center=true&vCenter=true&width=900&lines=Professor+de+Desenvolvimento+de+Sistemas;Desenvolvedor+Web;Criando+projetos+e+experiencias" alt="Typing SVG" />
 </p>
@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsonbsouzaa&repo=agar-senai&theme=transparent&title_color=33FF66&text_color=C7F0D8&border_color=2A3B2F" />
 </p>
 
 

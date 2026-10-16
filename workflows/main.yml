@@ -43,6 +43,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-
-  - name: GitHub-Profile-3D-Contrib
-  uses: yoshi389111/github-profile-3d-contrib@v0.9.3

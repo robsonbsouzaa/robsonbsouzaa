@@ -64,5 +64,5 @@
 
 
 <div align="center">
-<img src = "download (3).gif" width = "800px">
+<img src = "download (2).gif" width = "800px">
     </div>
